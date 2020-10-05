@@ -69,7 +69,6 @@ console.log(s);
 let a = prompt(" nhập :");
 a = parseInt(a);
 let s = 0;
-for(i=1; i<=a; i=i+2){
-    s=s+1
+for(i=1; i<=a;i=i+1){
+    console.log(s=s+1)
 }
-console.log(s);
