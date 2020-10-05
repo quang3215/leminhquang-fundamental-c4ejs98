@@ -65,7 +65,7 @@ for(i=1; i<=a; i=i+2){
     s=s+1
 }
 console.log(s);
-//ex2
+//ex3
 let a = prompt(" nhập :");
 a = parseInt(a);
 let s = 0;
