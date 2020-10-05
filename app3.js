@@ -53,8 +53,7 @@ else if(a > 30){
 // ex6
 let n = Number(prompt("nhập số: "));
 let s = 1;
-for(let i = 1; i <= n; i++)
-{
+for(let i = 1; i <= n; i++){
     s = s*i;
 }
 console.log(s);
